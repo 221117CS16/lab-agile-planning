@@ -1,4 +1,11 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
 
+---
 
 1. **As a** [role]
 2. **I need** [function]
